@@ -3,9 +3,8 @@ Este repositório contém os arquivos dos meus estudos de Javascript
 
 ## Ferramentas utilizadas
 
-* [Visual Studio Code](https://code.visualstudio.com/)
 * [Node.js](https://nodejs.org/en/)
-* [Google Chrome](https://www.google.com/intl/pt-BR/chrome/)
+* [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Referências
 
