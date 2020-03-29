@@ -6,7 +6,7 @@ function jurosSimples(capital, juros, tempo) {
 
 function jurosComposto(capital, juros, tempo) {
     const montante = capital * ((1 + (juros / 100)) ** tempo)
-
+    
     return montante
 }
 
