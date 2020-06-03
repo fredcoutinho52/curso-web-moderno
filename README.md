@@ -1,5 +1,6 @@
 # Curso Web Moderno
-Este repositório contém os arquivos dos meus estudos de Javascript
+
+Este repositório contém os arquivos dos meus estudos de conceitos de Web modernos.
 
 ## Ferramentas utilizadas
 
