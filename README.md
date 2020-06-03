@@ -1,4 +1,4 @@
-# Estudo de Javascript
+# Curso Web Moderno
 Este repositório contém os arquivos dos meus estudos de Javascript
 
 ## Ferramentas utilizadas
