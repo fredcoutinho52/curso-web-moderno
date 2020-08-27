@@ -9,4 +9,4 @@ Este repositório contém os arquivos dos meus estudos de conceitos de Web moder
 
 ## Referências
 
-[Curso Web Moderno com JavaScript! COMPLETO 2020 + Projetos](https://www.udemy.com/course/curso-web/)
+* [Curso Web Moderno com JavaScript! COMPLETO 2020 + Projetos](https://www.udemy.com/course/curso-web/)
